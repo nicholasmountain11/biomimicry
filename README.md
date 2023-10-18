@@ -1,6 +1,6 @@
 # MATLAB Class Projects
 ## Biomimicry 
-The file "" contains a matlab simulation of a gravity based sewage system, inspired by a cow stomach.
+The file "group16SewageSim.m" contains a matlab simulation of a gravity based sewage system, inspired by a cow stomach.
 ## S4 Forest Fire Simulation
 The folder S4 contains a matlab simulation of a forest fire, with trees and fire appearing at random with adjustable probability.
 ## S3 Parachute
